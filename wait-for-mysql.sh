@@ -16,3 +16,5 @@ echo "Done"
 echo "MySQL is up - executing command = $cmd"
 
 exec $cmd
+
+erv
