@@ -1,4 +1,4 @@
-# spring-boot-react-ecommerce-app
+# spring-boot-react-ecommerce-web-app
 eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.
 
 **DEMO**
@@ -50,7 +50,7 @@ eCommerce application based on the microservices architecture built using Spring
 
 **Steps for executing the application using docker-compose:**
 
-Installation Video: https://youtu.be/nPKYbdKPd0E
+run the ./start-all.sh
 
 1. Clone/Download the repository.
 
